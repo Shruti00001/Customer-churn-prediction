@@ -61,7 +61,8 @@ Embed your charts here to showcase model performance and insights. Example:
 
 ```markdown
 *Figure: ROC Curve showing model performance*
-<img width="1201" height="990" alt="Screenshot 2025-08-29 160234" src="https://github.com/user-attachments/assets/67e5869f-1e3f-4c86-a7b1-fb024f838108" />
+<img width="1201" height="990" alt="Screenshot 2025-08-29 160234" src="https://github.com/user-attachments/assets/842185e7-0253-4ed6-837d-bbcf825472ef" />
+
 
 
 You can also add:
