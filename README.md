@@ -61,14 +61,7 @@ Embed your charts here to showcase model performance and insights. Example:
 
 ```markdown
 *Figure: ROC Curve showing model performance*
-<img width="1201" height="990" alt="Screenshot 2025-08-29 160234" src="https://github.com/user-attachments/assets/842185e7-0253-4ed6-837d-bbcf825472ef" />
-
-
-
-You can also add:
-- Confusion matrix  
-- Feature importance bar chart  
-- Churn distribution pie chart
+<img width="1201" height="990" alt="Screenshot 2025-08-29 160234" src="https://github.com/user-attachments/assets/72c0bcd9-a0fd-420f-ae24-bedabb81d49e" />
 
 ---
 
