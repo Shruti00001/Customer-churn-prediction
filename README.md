@@ -59,9 +59,11 @@ Customer churn is a major challenge for subscription-based businesses. By predic
 🖼️ Visualizations  
 Embed your charts here to showcase model performance and insights. Example:
 
-```markdown
 *Figure: ROC Curve showing model performance*
-<img width="1201" height="990" alt="Screenshot 2025-08-29 160234" src="https://github.com/user-attachments/assets/72c0bcd9-a0fd-420f-ae24-bedabb81d49e" />
+<img width="1201" height="990" alt="Screenshot 2025-08-29 160234 (1)" src="https://github.com/user-attachments/assets/06b886bb-cd5b-438f-b58b-dbc4e021256e" />
+
+
+
 
 ---
 
