@@ -1,103 +1,51 @@
-📉 Customer Churn Prediction
-
- 🔍 Overview  
-This project analyzes customer churn in a telecom company using predictive modeling. The goal is to identify key factors contributing to churn and build a model that helps the business proactively retain customers, reduce losses, and improve profitability.
-
----
-
-🧠 Problem Statement  
-Customer churn is a major challenge for subscription-based businesses. By predicting which customers are likely to leave, companies can take targeted actions to improve retention. This project uses synthetic telecom data to build a classification model that flags high-risk customers.
+# 📈 Customer Churn Prediction
+### 💡 Project Overview
+This project demonstrates a full-cycle data analysis and visualization workflow. I began by creating a realistic, synthetic sales dataset using Python. I then analyzed this data to uncover key performance insights and built a dynamic dashboard using Power BI to present my findings.
 
 ---
 
-📊 Dataset  
-- Source: Synthetic dataset simulating telecom customer behavior  
-- Features: Demographics, service usage, contract type, tenure, billing, and payment method  
-- Target: `Churn` (Yes/No)
+### 🚀 The Business Problem
+Businesses need to go beyond raw sales numbers to understand what drives performance. This project aims to provide clear, actionable insights into sales trends, product performance, and regional growth to help a company make data-driven decisions.
 
 ---
 
- 🛠️ Tools & Technologies  
-- Python  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- Jupyter Notebook
+### 🛠️ The Process
+1.  **Data Generation**: Used **Python** (`pandas`, `numpy`) to create a synthetic sales dataset with realistic data points for revenue, growth rate, and product information.
+2.  **Data Analysis**: Cleaned and explored the dataset to find trends and key performance indicators (KPIs).
+3.  **Dashboard Development**: Built a comprehensive and interactive dashboard using **Power BI**.
 
 ---
 
- 🧪 Methodology  
-1. Data Cleaning & Preprocessing 
-   - Handled missing values  
-   - Encoded categorical variables  
-   - Scaled numerical features  
-
-2. Exploratory Data Analysis (EDA)
-   - Visualized churn distribution  
-   - Analyzed feature correlations  
-   - Identified key churn drivers
-
-3. Modeling 
-   - Logistic Regression  
-   - Decision Tree Classifier  
-   - Compared performance using accuracy, precision, recall, and ROC AUC
-
-4. Interpretability 
-   - Feature importance analysis  
-   - ROC curve visualization  
-   - Business recommendations based on model insights
+### 📊 Dashboard Features & Key Insights
+* **Revenue at a Glance**: Track total revenue and growth over time.
+* **Product Performance**: Identify top-selling products and regions.
+* **[Add Your Own Insight]**: A key finding from your analysis. For example, "Found that Product C showed the most consistent growth in the East region."
 
 ---
 
- 📈 Results  
-- Achieved 85% ROC AUC with Decision Tree  
-- Identified top churn indicators: contract type, tenure, monthly charges  
-- Proposed retention strategies based on model outputs
+### 📸 Visuals
+
+<p align="center">
+  <img width="80%" alt="A screenshot of the Sales Performance Dashboard, showing key metrics and visualizations." src="https://github.com/user-attachments/assets/bd37a4f2-38fe-41b3-8f1e-560557f0a319" />
+</p>
+<p align="center">
+    *This dashboard provides a clear overview of sales performance, including revenue trends and product distribution.*
+</p>
 
 ---
 
-🖼️ Visualizations  
-Embed your charts here to showcase model performance and insights. Example:
+### 📂 Project Files
 
-*Figure: ROC Curve showing model performance*
-<img width="1201" height="990" alt="Screenshot 2025-08-29 160234 (1)" src="https://github.com/user-attachments/assets/06b886bb-cd5b-438f-b58b-dbc4e021256e" />
-
-
-
+* **[`sales dashboard using bower bi.py`](./sales%20dashboard%20using%20bower%20bi.py)**: The Python script used to generate the synthetic sales data.
+* **`synthetic_sales_data.csv`**: The generated dataset used for the Power BI dashboard.
+* **`Sales_Performance_Dashboard.pbix`**: The complete Power BI file.
 
 ---
 
- 📁 Project Structure  
-Customer-churn-prediction/
-│
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── scripts/               # Python scripts for cleaning and visualization
-├── results/               # Charts and model outputs
-│   └── charts/
-│       └── churn_roc_curve.png
-├── README.md              # Project overview
-├── requirements.txt       # Dependencies
-└── LICENSE                # License info
-```
+<h2 align="center">🔗 Let's Connect</h2>
 
-🚀 How to Run  
-pip install -r requirements.txt
-jupyter notebook notebooks/Customer_Churn_Analysis.ipynb
-```
-
----
-
- 📌 Highlights  
-- Built a churn prediction pipeline from scratch  
-- Delivered actionable insights for customer retention  
-- Structured for easy reuse and extension
-
----
-
-📬 Contact  
-Shruti
-📧 shruti.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shruti00001)  
-🔗 [GitHub](https://github.com/Shruti00001)
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/shrutimishra011/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
