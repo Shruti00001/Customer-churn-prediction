@@ -1,4 +1,6 @@
 # 📈 Customer Churn Prediction
+
+
 ### 💡 Project Overview
 This project demonstrates a full-cycle data analysis and visualization workflow. I began by creating a realistic, synthetic sales dataset using Python. I then analyzed this data to uncover key performance insights and built a dynamic dashboard using Power BI to present my findings.
 
@@ -24,9 +26,8 @@ Businesses need to go beyond raw sales numbers to understand what drives perform
 ---
 
 ### 📸 Visuals
-
 <p align="center">
-  <img width="80%" alt="A screenshot of the Sales Performance Dashboard, showing key metrics and visualizations." src="https://github.com/user-attachments/assets/bd37a4f2-38fe-41b3-8f1e-560557f0a319" />
+  <img width="80%" alt="A screenshot of the Sales Performance Dashboard, showing key metrics and visualizations." src="./Screenshot.png" />
 </p>
 <p align="center">
     *This dashboard provides a clear overview of sales performance, including revenue trends and product distribution.*
@@ -35,10 +36,8 @@ Businesses need to go beyond raw sales numbers to understand what drives perform
 ---
 
 ### 📂 Project Files
-
-* **[`sales dashboard using bower bi.py`](./sales%20dashboard%20using%20bower%20bi.py)**: The Python script used to generate the synthetic sales data.
-* **`synthetic_sales_data.csv`**: The generated dataset used for the Power BI dashboard.
-* **`Sales_Performance_Dashboard.pbix`**: The complete Power BI file.
+* **[sales_data.csv](./sales_data.csv)**: The raw, synthetic dataset used for this project.
+* **[Dashboard_final.pbix](./Dashboard_final.pbix)**: The complete Power BI file. Feel free to download it to explore the data model and interactive features.
 
 ---
 
