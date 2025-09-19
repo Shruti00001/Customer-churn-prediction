@@ -25,6 +25,7 @@ Since there is no Power BI dashboard, you should include a brief summary of the 
 *<img width="1861" height="1241" alt="Screenshot 2025-08-29 164220" src="https://github.com/user-attachments/assets/6c38db76-43b5-4cd2-9147-2c25a59842e8" />
 
 *<img width="1201" height="990" alt="Screenshot 2025-08-29 160234 (2)" src="https://github.com/user-attachments/assets/1e7a0989-ab94-4d56-9e77-58c7485ed1b8" />
+<img width="1536" height="1024" alt="customer churn visual power bi" src="https://github.com/user-attachments/assets/33acd728-3da6-4ba0-83c8-730c94893db5" />
 
 ---
 
